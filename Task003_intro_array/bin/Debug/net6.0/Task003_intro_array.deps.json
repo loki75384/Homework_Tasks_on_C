@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task003_intro_array/1.0.0": {
+        "runtime": {
+          "Task003_intro_array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task003_intro_array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
