@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Новая папка\\Tasks_Homework\\Homework_Tasks_on_C\\Task004_Find_Index\\Task004_.csproj": {}
+    "C:\\Users\\User\\Desktop\\Новая папка\\Tasks_Homework\\Homework_Tasks_on_C\\Task_005_Lybrary\\Task_005_Lybrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Новая папка\\Tasks_Homework\\Homework_Tasks_on_C\\Task004_Find_Index\\Task004_.csproj": {
+    "C:\\Users\\User\\Desktop\\Новая папка\\Tasks_Homework\\Homework_Tasks_on_C\\Task_005_Lybrary\\Task_005_Lybrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Новая папка\\Tasks_Homework\\Homework_Tasks_on_C\\Task004_Find_Index\\Task004_.csproj",
-        "projectName": "Task004_",
-        "projectPath": "C:\\Users\\User\\Desktop\\Новая папка\\Tasks_Homework\\Homework_Tasks_on_C\\Task004_Find_Index\\Task004_.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Новая папка\\Tasks_Homework\\Homework_Tasks_on_C\\Task_005_Lybrary\\Task_005_Lybrary.csproj",
+        "projectName": "Task_005_Lybrary",
+        "projectPath": "C:\\Users\\User\\Desktop\\Новая папка\\Tasks_Homework\\Homework_Tasks_on_C\\Task_005_Lybrary\\Task_005_Lybrary.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Новая папка\\Tasks_Homework\\Homework_Tasks_on_C\\Task004_Find_Index\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Новая папка\\Tasks_Homework\\Homework_Tasks_on_C\\Task_005_Lybrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
