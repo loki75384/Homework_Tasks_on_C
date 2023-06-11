@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Новая папка\Tasks_Homework\Homework_Tasks_on_C\Task004_\obj\Debug\net6.0\Task004_.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\Tasks_Homework\Homework_Tasks_on_C\Task004_\obj\Debug\net6.0\Task004_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка\Tasks_Homework\Homework_Tasks_on_C\Task004_\obj\Debug\net6.0\Task004_.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка\Tasks_Homework\Homework_Tasks_on_C\Task004_\obj\Debug\net6.0\Task004_.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\Tasks_Homework\Homework_Tasks_on_C\Task004_\obj\Debug\net6.0\Task004_.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\Tasks_Homework\Homework_Tasks_on_C\Task004_\bin\Debug\net6.0\Task004_.exe
+C:\Users\User\Desktop\Новая папка\Tasks_Homework\Homework_Tasks_on_C\Task004_\bin\Debug\net6.0\Task004_.deps.json
+C:\Users\User\Desktop\Новая папка\Tasks_Homework\Homework_Tasks_on_C\Task004_\bin\Debug\net6.0\Task004_.runtimeconfig.json
+C:\Users\User\Desktop\Новая папка\Tasks_Homework\Homework_Tasks_on_C\Task004_\bin\Debug\net6.0\Task004_.dll
+C:\Users\User\Desktop\Новая папка\Tasks_Homework\Homework_Tasks_on_C\Task004_\bin\Debug\net6.0\Task004_.pdb
+C:\Users\User\Desktop\Новая папка\Tasks_Homework\Homework_Tasks_on_C\Task004_\obj\Debug\net6.0\Task004_.dll
+C:\Users\User\Desktop\Новая папка\Tasks_Homework\Homework_Tasks_on_C\Task004_\obj\Debug\net6.0\refint\Task004_.dll
+C:\Users\User\Desktop\Новая папка\Tasks_Homework\Homework_Tasks_on_C\Task004_\obj\Debug\net6.0\Task004_.pdb
+C:\Users\User\Desktop\Новая папка\Tasks_Homework\Homework_Tasks_on_C\Task004_\obj\Debug\net6.0\Task004_.genruntimeconfig.cache
+C:\Users\User\Desktop\Новая папка\Tasks_Homework\Homework_Tasks_on_C\Task004_\obj\Debug\net6.0\ref\Task004_.dll
